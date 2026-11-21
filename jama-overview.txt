@@ -1,0 +1,22 @@
+Jama · One-page overview
+EcoCycle visual style guide
+Purpose: help people extend electronics’ useful life through accessible assessment, repair guidance, local services, and rewards.
+Brand & visual foundations
+Green circular C / arrow with an orange plug and wire; user-supplied approved darker-orange logo artwork with charcoal lettering. Keep the full logo visible with clear space. Forest #245342 anchors identity; orange #AF421D identifies actions; warm white #FFF7EE provides the canvas; charcoal #292D29 is the default for headings, navigation, and body text.
+Typography & layout
+Headings: Montserrat SemiBold (600). Body, navigation, buttons, and forms: Open Sans / Arial / sans-serif. Body Regular (400); labels and buttons SemiBold (600). Titles 32px; section headings 24px; body 16px; labels 14px; secondary captions 12px. Use a 4px spacing scale, 24px card padding, 12px card radius, and controls at least 44px high. Responsive desktop, tablet, and mobile layouts.
+Interaction principles
+Familiar language, minimal repeated input, visual instructions with concise explanations, immediate feedback, error prevention, and focused task flows. Safety warnings remain visible.
+Core UI elements
+Logo, colors, typography, spacing, buttons, Lucide outline icons, forms, validation, feedback, navigation, context menus, dialogs, tables, and status labels. Styles and applicable interaction states are included in the CSS library.
+Task 4 design patterns
+Wizard — device condition assessment.
+Cards — repair options.
+Progressive disclosure — repair guidance.
+Search filters — local services.
+Dashboard — reward tracking.
+Source of truth
+EcoCycle Style Guide · v1.0
+Figma informs flows only. Visual styling is independently designed. Demo interactions do not represent a connected backend.Print / save one-pagerDownload Jama text
+
+Full guide: https://pinhsuaw-cmu-f26.github.io/ecocycle-style-guide/
