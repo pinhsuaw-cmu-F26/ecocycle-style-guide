@@ -16,3 +16,9 @@ h1,h2,h3,.type-display,.type-title,.type-section{font-family:Montserrat,Arial,sa
 
 /* Open Sans supports reading and interface controls; Montserrat owns headings. */
 .type-label,.btn,.field label,.sidebar nav a,.app-nav button,.badge,summary,th{font-weight:600}
+
+/* Preserve complete status words and reflow records on phones. */
+.badge{white-space:nowrap;overflow-wrap:normal;word-break:normal}
+[hidden]{display:none!important}
+#form-errors p{margin:6px 0}#form-errors a{color:var(--error);font-weight:600}
+@media(max-width:600px){.table-wrap{overflow:visible}table,tbody{display:block}thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}caption{display:block}tbody tr{display:block;padding:12px 0;border-top:1px solid var(--line)}td{display:grid;grid-template-columns:72px minmax(0,1fr);gap:12px;padding:10px 0;border:0;overflow-wrap:normal;word-break:normal}td::before{content:attr(data-label);font-weight:600;color:var(--muted)}td .badge{justify-self:start;max-width:100%}.stepper li{min-width:0;overflow-wrap:normal}.dialog-example{padding:12px}.btn{max-width:100%;white-space:normal}.check input{flex-shrink:0}}
