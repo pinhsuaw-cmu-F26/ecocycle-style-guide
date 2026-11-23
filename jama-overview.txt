@@ -2,7 +2,7 @@ Jama · One-page overview
 EcoCycle visual style guide
 Purpose: help people extend electronics’ useful life through accessible assessment, repair guidance, local services, and rewards.
 Brand & visual foundations
-Green circular C / arrow with an orange plug and wire; user-supplied approved darker-orange logo artwork with charcoal lettering. Keep the full logo visible with clear space. Forest #245342 anchors identity; orange #AF421D identifies actions; warm white #FFF7EE provides the canvas; charcoal #292D29 is the default for headings, navigation, and body text.
+E/C monogram: the plug and wire suggest E; the green circular arrow forms C. Together they connect electronics with repair, reuse, and a longer device life; user-supplied approved darker-orange logo artwork with charcoal lettering. Keep the full logo visible with clear space. Forest #245342 anchors identity; orange #AF421D identifies actions; warm white #FFF7EE provides the canvas; charcoal #292D29 is the default for headings, navigation, and body text.
 Typography & layout
 Headings: Montserrat SemiBold (600). Body, navigation, buttons, and forms: Open Sans / Arial / sans-serif. Body Regular (400); labels and buttons SemiBold (600). Titles 32px; section headings 24px; body 16px; labels 14px; secondary captions 12px. Use a 4px spacing scale, 24px card padding, 12px card radius, and controls at least 44px high. Responsive desktop, tablet, and mobile layouts.
 Interaction principles
